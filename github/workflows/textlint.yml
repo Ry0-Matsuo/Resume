@@ -1,0 +1,19 @@
+name: TextLint
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  textlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install textlint
+        run: npm install textlint
+
+      - name: Run textlint
+        run: npx textlint "**/*.md"
