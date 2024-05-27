@@ -44,10 +44,9 @@
   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square">
 </p>
 
+---
 
 ## スキル
-
----
 
 ### クラウド
 
@@ -58,6 +57,10 @@
 |2024/02/03|AWS認定 ソリューションアーキテクト アソシエイト(SAA-C03)|
 |2024/05/19|AWS認定 ソリューションアーキテクト プロフェッショナル(SAP-C02)|
 
+<table style="border-collapse:collapse; max-width:400px;">
+<tr><td><a href="https://www.credly.com/badges/93ac32f4-5fb7-4e0d-a9e4-7c4943e46fda/public_url"><img src="img/aws-certified-solutions-architect-associate.png"/></a></td>
+<td><a href="https://www.credly.com/badges/c9bcd893-fb6c-47c6-92d5-441be4edabcd/public_url"><img src="img/aws-certified-solutions-architect-professional.png"/></a></td></tr>
+</table>
 
 ### その他
 
@@ -84,11 +87,9 @@
 - **プロジェクト詳細：**
     - Java + Spring Tools Suites 4 での バックエンド開発
     - JavaScript でのフロントエンド開発
-    - A5:SQL Mk-2 でのMySQLデータベース操作
+    - A5:SQL Mk-2 + xmlでのMySQLデータベース操作
     - TortoiseSVNでのバージョン管理
 
 
-## 意欲・興味
 
-- xxx
 
