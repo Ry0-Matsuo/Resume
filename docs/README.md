@@ -14,7 +14,7 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/RyoMatsuo-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RyoMatsuo-dev-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/Ry0-Matsuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RyoMatsuo-dev-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
 ---
