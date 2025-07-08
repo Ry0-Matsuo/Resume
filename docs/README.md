@@ -144,6 +144,7 @@
     - Git デプロイ管理
     - A5:SQL Mk-2(V2.19.0) + PostgreSQL データベース操作
     - DockerDesktop
+    - Auth0
 - **サーバー：**
   - Ubuntu（CodeBuild Standard:5.0イメージベース）、Docker、apt、npm
 - **AWS 環境での操作・運用経験：**
