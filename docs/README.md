@@ -20,31 +20,42 @@
 
 ---
 
-## 保有スキル
-
-- Javaを使用したバックエンド開発・設計
-  - MyBatis Generatorを使用してテーブルクラスを自動マッピング
-  - 自動生成クラスにより作業効率向上、高速DB処理と可読性の向上を実現
-- MySQLを使用したDB操作
-- 社内勉強会への参加(主にAWS)
-- HTML, JavaScriptでのフロントエンド開発・設計
-
----
-
 ## 技術スタック
 
 ### 言語
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-C74735?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?logo=typescript&style=flat-square&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%23316192.svg?logo=postgresql&style=flat-square&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-C74735?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-E1ECEE.svg?logo=mysql&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4.svg?logo=php&style=flat-square&logoColor=white">
 </p>
 
 ### フレームワーク
 
 <p>
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square">
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-vuejs-%2335495e.svg?logo=vuedotjs&style=flat-square&logoColor=%234FC08D">
+</p>
+
+### AWS
+<p>
+  <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569B31.svg?logo=amazon-s3&style=flat-square">
+  <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon%20ECS-F58C05.svg?logo=amazon-ecs&style=flat-square">
+  <img alt="Amazon ECR" src="https://img.shields.io/badge/-Amazon%20ECR-F58C05.svg?logo=amazon-ecr&style=flat-square">
+  <img alt="Code Build" src="https://img.shields.io/badge/Code%20Build-4A6DEE.svg?logo=codebuild&style=flat-square">
+  <img alt="Code Deploy" src="https://img.shields.io/badge/Code%20Deploy-4A6DEE.svg?logo=acodedeploy&style=flat-square">
+  <img alt="Code Pipeline" src="https://img.shields.io/badge/Code%20Pipeline-4A6DEE.svg?logo=codepipeline&style=flat-square">
+  <img alt="Amazon Inspector" src="https://img.shields.io/badge/Amazon%20Inspector-DB2A31.svg?logo=amazon-inspector&style=flat-square">
+  <img alt="Aurora" src="https://img.shields.io/badge/Aurora-3538BD.svg?logo=aurora&style=flat-square">
+</p>
+
+### OS
+
+<p>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white">
 </p>
 
 ---
