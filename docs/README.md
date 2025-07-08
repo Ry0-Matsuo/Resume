@@ -157,6 +157,11 @@
     - CodeDeploy / CodePipeline を活用したCI/CDパイプラインの操作・運用
     - Amazon Inspector によるセキュリティスキャン、レポート調査および修正対応
     - Aurora（PostgreSQL）によるDB操作、スナップショット復元対応
+- **CI/CD改修・運用（AWS CodeBuild）:**
+    - フロントエンド／バックエンド向けに個別の buildspec.yaml（buildspec_frontend.yaml / buildspec_backend.yaml）を改修・運用
+    - npmスクリプトによる依存関係の解決、ビルド処理をDockerfileと連携させ、CodeBuild上でDockerイメージを自動生成
+    - CodePipelineと連携し、環境ごとのビルド処理を自動化
+    ※Docker環境でのCI/CDパイプライン改修にあたり、Node.js系プロジェクトにおける依存解決・ビルド最適化の対応を経験。
 - **課題：**
     - 7
  
