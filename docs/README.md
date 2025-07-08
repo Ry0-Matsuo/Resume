@@ -26,7 +26,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?logo=typescript&style=flat-square&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%23316192.svg?logo=postgresql&style=flat-square&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/-Java-C74735?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-E1ECEE.svg?logo=mysql&style=flat-square">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E1ECEE.svg?logo=mysql&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4.svg?logo=php&style=flat-square&logoColor=white">
   <img alt="YAML" src="https://img.shields.io/badge/-YAML-%23ffffff.svg?logo=yaml&style=flat-square&logoColor=151515">
@@ -64,6 +64,11 @@
 
 ## スキル
 
+### 情報処理技術者試験
+|Date|Qualification|
+|---|---|
+|2023/12/24|基本情報処理技術者試験合格|
+
 ### クラウド
 
 #### AWS
@@ -82,7 +87,6 @@
 
 |Date|Qualification|
 |---|---|
-|2023/12/24|基本情報処理技術者試験合格|
 |2024/01/05|Oracle Certified Java Programmer, Gold SE11|
 |2024/01/20|Oracle Master Silver SQL|
 
