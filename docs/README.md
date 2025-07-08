@@ -12,8 +12,8 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/Ry0-Matsuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Ry0_Matsuo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_mz" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_mz-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://github.com/Ry0-Matsuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Ry0--Matsuo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://zenn.dev/ryo_mz" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo__mz-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
 ---
