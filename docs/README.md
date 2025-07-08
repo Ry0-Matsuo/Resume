@@ -1,5 +1,3 @@
-# 職務経歴書
-
 ## 基本情報
 
 |key|value|
@@ -31,16 +29,20 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-E1ECEE.svg?logo=mysql&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4.svg?logo=php&style=flat-square&logoColor=white">
+  <img alt="YAML" src="https://img.shields.io/badge/-YAML-%23ffffff.svg?logo=yaml&style=flat-square&logoColor=151515">
 </p>
+
 
 ### フレームワーク
 
 <p>
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square">
-  <img alt="Vue.js" src="https://img.shields.io/badge/-vuejs-%2335495e.svg?logo=vuedotjs&style=flat-square&logoColor=%234FC08D">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-%2335495e.svg?logo=vuedotjs&style=flat-square&logoColor=%234FC08D">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&style=flat-square&logoColor=white">
+  <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-%23E0234E?logo=nestjs&style=flat-square&logoColor=white">
 </p>
 
 ### AWS
+
 <p>
   <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569B31.svg?logo=amazon-s3&style=flat-square">
   <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon%20ECS-F58C05.svg?logo=amazon-ecs&style=flat-square">
@@ -88,10 +90,10 @@
 
 ## 職務経歴詳細
 
-### 受託開発企業（2023/05〜現在）
+### 受託開発SIer（2023/05〜現在）
 ※2023/05~2023/07まで新人研修
 
-#### 製造業企業の製版システムの開発・運用(2023/08\~2023/12, 2024/03\~現在)
+#### 製造業企業の製版システムの開発・運用(2023/08\~2023/12, 2024/03\~2024/11)
 
 - **チーム編成：**
     - ウォーターフォール開発
@@ -127,3 +129,56 @@
     - gdbを使用してデバッグ
 - **課題：**
   - テストの目的やその手順の意味を理解するのに時間がかかった。Linuxコマンドを少し理解できるようになった。
+
+
+####  製造業向けSaasサービスの保守PJ(2024/09\~現在)
+
+- **チーム編成：**
+    - 2~4人
+- **役割：**
+    - 対応者
+- **言語・フレームワーク：**
+    - TypeScript, Vue.js, Node.js@18, Nest.js@10→11, PostgreSQL 17
+- **ツール：**
+    - VSCode
+    - Git デプロイ管理
+    - A5:SQL Mk-2(V2.19.0) + PostgreSQL データベース操作
+    - DockerDesktop
+- **サーバー：**
+  - Ubuntu（CodeBuild Standard:5.0イメージベース）、Docker、apt、npm
+- **AWS 環境での操作・運用経験：**
+    - S3による静的コンテンツ管理、ログストレージ運用
+    - ECS（Fargate）によるDockerコンテナの運用、タスク定義・スケジューリング
+    - CodeDeploy / CodePipeline を活用したCI/CDパイプラインの操作・運用
+    - Amazon Inspector によるセキュリティスキャン、レポート調査および修正対応
+    - Aurora（PostgreSQL）によるDB操作、スナップショット復元対応
+- **課題：**
+    - 7
+ 
+####  製造業企業のバッチサーバー保守PJ(2024/12\~現在)
+
+- **チーム編成：**
+    - 2人
+- **役割：**
+    - 対応者
+- **言語・フレームワーク：**
+    - バッチファイル（Windows CMD）, PostgreSQL 14
+- **ツール：**
+    - Teraterm、タスクスケジューラ、Windows Virtual Desktop（WVD）
+- **課題：**
+    - 7
+ 
+####  製造業企業の社内PHPサイト保守PJ(2025/04\~現在)
+
+- **チーム編成：**
+    - 2人
+- **役割：**
+    - 対応者
+- **言語・フレームワーク：**
+    - PHP 8.3.6, psql(PostgreSQL 16.9), Smarty
+- **OS：**
+    - Ubuntu 24.04.1(WSL2経由)  
+- **ツール：**
+    - WSL2, phpPgAdmin 7.13.0, Apache2.4.58, phpSpreadSheet, composer
+- **課題：**
+    - 7
