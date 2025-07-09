@@ -123,9 +123,11 @@
 - **役割：**
   - 詳細設計、画面開発（Java）、SQL開発、単体〜結合テスト
 
-- **使用技術：**
-  - **言語／DB／記述形式：** Java（JDK 17）、JavaScript、MySQL（8.0.40）、XML
-  - **使用ツール：** A5:SQL Mk-2（v2.17.2）、TortoiseSVN（v1.14.5）、WinMerge（v2.16.22）、LibreOffice（v7.3.7）、Redmine、Everything（v1.4.1）、STS4（v4.20.0）
+- **言語／DB／記述形式：**
+    - Java（JDK 17）、JavaScript、MySQL（8.0.40）、XML
+
+- **ツール：**
+    - A5:SQL Mk-2（v2.17.2）、TortoiseSVN（v1.14.5）、WinMerge（v2.16.22）、LibreOffice（v7.3.7）、Redmine、Everything（v1.4.1）、STS4（v4.20.0）
 
  - **担当業務：**
     - Java（Service／Repository）を用いて、発注書出力画面（PDF帳票）の新規開発を担当
