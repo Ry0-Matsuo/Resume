@@ -63,13 +63,15 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white">
 </p>
 
+### Saas
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424.svg?&logo=auth0&logoColor=white&style=flat-square)
+
 ### その他技術
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 ![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=linux&logoColor=white&style=flat-square)
 ![apt](https://img.shields.io/badge/-apt-5E5E5E?logo=debian&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?&logo=git&logoColor=white&style=flat-square)
-![Auth0](https://img.shields.io/badge/-Auth0-EB5424.svg?&logo=auth0&logoColor=white&style=flat-square)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?&logo=redmine&logoColor=white&style=flat-square)
 ![Apache2](https://img.shields.io/badge/-Apache2-D22128.svg?&logo=apache&logoColor=white&style=flat-square)
 
@@ -123,7 +125,7 @@
 - **言語・フレームワーク：**
     - Java (jdk-17), JavaScript, MySQL(8.0.40), XML
  - **ツール：**
-    - A5:SQL Mk-2(V2.17.2), TortoiseSVN(1.14.5), WinMerge(2.16.22), LibreOffice(7.3.7) Redmine, Everything(1.4.1), STS4.20.0
+    - A5:SQL Mk-2(V2.17.2), TortoiseSVN(1.14.5), WinMerge(2.16.22), LibreOffice(7.3.7) Redmine, Everything(1.4.1), STS4(v4.20.0)
 - **課題：**
     - 設計書やソースコードの修正を担当していたが、規則をよく読まずにタスク進行してしまい納期1週間のものが6週間かかってしまった。次回からは、規則の熟読、Redmineに記載された指摘事項を逐一メモして再発防止に努めた。また、言語系統の資格を取得し業務理解度の向上に努めた。
 
@@ -153,7 +155,9 @@
 - **言語・フレームワーク：**
     - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17, 
 - **ツール：**
-    - VSCode, Git, A5:SQL Mk-2(V2.19.0), Docker, Auth0, Redmine, backlog, WinMerge(2.16.22), Everything(1.4.1)
+    - VSCode, Git, A5:SQL Mk-2(V2.19.0), Docker, Redmine, backlog, WinMerge(2.16.22), Everything(1.4.1)
+- **Saas：**
+    - Auth0
 - **サーバー：**
   - Ubuntu(CodeBuild Standard:5.0イメージベース), Docker, apt, npm
 - **AWS 環境での操作・運用経験：**
@@ -180,13 +184,14 @@
     - 2人
 - **役割：**
     - 対応者
-- **言語・フレームワーク：**
-    - バッチファイル（Windows CMD）
-- **ツール：**
-    - Teraterm、タスクスケジューラ、Windows Virtual Desktop（WVD）
-- **業務内容：**
-    - Windowsバッチサーバーエラー対応
-    - バッチ処理内容の改修
+- **言語・スクリプト：**
+  - バッチファイル（Windows CMD）
+- **使用ツール：**
+  - Tera Term、タスクスケジューラ、Windows Virtual Desktop（WVD）
+- **担当業務：**
+  - Windowsバッチサーバーで発生したエラーの調査・復旧対応
+  - 処理フロー見直しによる既存バッチの改修
+  - タスクスケジューラによる実行タイミング・依存関係の確認
 - **課題：**
     - 7
  
@@ -197,16 +202,16 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-    - PHP 8.3.6, psql(PostgreSQL 16.9), Smarty
-- **OS：**
-    - Ubuntu 24.04.1(WSL2経由)  
-- **ツール：**
-    - WSL2, VSCode, phpPgAdmin 7.13.0, Apache2.4.58, phpSpreadSheet, composer
-- **業務内容：**
-    - RPA改修
-      - メール内容文言修正(PHP)
-      - 新規管理ユーザ追加(psql)
-    - シェル検証環境の構築(WSL2, phpPgAdmin, Apache2, phpSpreadSheet, composer)
-    - フレームワーク"Smarty"の機能調査
+  - PHP 8.3.6、Smarty、PostgreSQL（psql）
+- **OS環境：**
+  - Ubuntu 24.04（WSL2上）
+- **利用ツール／ミドルウェア：**
+  - VSCode、phpPgAdmin、Apache2、phpSpreadsheet、composer、WinSCP
+- **担当業務：**
+  - RPA処理の改修・バグ対応（PHPコード修正中心）
+  - メール送信ロジックの文言修正・出力内容の整備
+  - PostgreSQLに関するデータ取得／依頼対応（psql・phpPgAdmin）
+  - Smartyテンプレート内ロジックの調査・機能制限確認
+  - WSL2上での実行環境検証・Composer依存調整
 - **課題：**
     - 7
