@@ -29,7 +29,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E1ECEE.svg?logo=mysql&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4.svg?logo=php&style=flat-square&logoColor=white">
-  <img alt="YAML" src="https://img.shields.io/badge/-YAML-%23ffffff.svg?logo=yaml&style=flat-square&logoColor=151515">
+  <img alt="YAML" src="https://img.shields.io/badge/-YAML-EDEDED.svg?logo=yaml&style=flat-square&logoColor=151515">
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-151515.svg?logo=json&style=flat-square&logoColor=EDEDED">
 </p>
 
 
@@ -51,7 +52,9 @@
   <img alt="Code Deploy" src="https://img.shields.io/badge/Code%20Deploy-4A6DEE.svg?logo=acodedeploy&style=flat-square">
   <img alt="Code Pipeline" src="https://img.shields.io/badge/Code%20Pipeline-4A6DEE.svg?logo=codepipeline&style=flat-square">
   <img alt="Amazon Inspector" src="https://img.shields.io/badge/Amazon%20Inspector-DB2A31.svg?logo=amazon-inspector&style=flat-square">
-  <img alt="Aurora" src="https://img.shields.io/badge/Aurora-3538BD.svg?logo=aurora&style=flat-square">
+  <img alt="RDS" src="https://img.shields.io/badge/RDS-3538BD.svg?logo=rds&style=flat-square">
+  <img alt="CloudFront" src="https://img.shields.io/badge/CloudFront-8F58EC.svg?logo=cloufront&style=flat-square">
+  <img alt="EventBridge" src="https://img.shields.io/badge/EventBridge-F24381.svg?logo=eventbridge&style=flat-square">
 </p>
 
 ### OS
@@ -66,6 +69,9 @@
 ![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=linux&logoColor=white&style=flat-square)
 ![apt](https://img.shields.io/badge/-apt-5E5E5E?logo=debian&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?&logo=git&logoColor=white&style=flat-square)
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424.svg?&logo=auth0&logoColor=white&style=flat-square)
+![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?&logo=redmine&logoColor=white&style=flat-square)
+![Apache2](https://img.shields.io/badge/-Apache2-D22128.svg?&logo=apache&logoColor=white&style=flat-square)
 
 
 ---
@@ -108,21 +114,16 @@
 #### 製造業企業の製版システムの開発・運用(2023/08\~2024/11)
 
 - **チーム編成：**
-    - ウォーターフォール開発
+  - ウォーターフォール開発
     - PL 1人
     - PM兼SE 2人
     - SE 4人
 - **役割：**
     - 設計、コーディング、単体テスト、結合テスト
 - **言語・フレームワーク：**
-    - Java + Spring Tools Suites 4(4.20.0.RELEASE) での バックエンド開発
-    - JavaScript でのフロントエンド開発
-    - A5:SQL Mk-2(V2.17.2) + xmlでのMySQLデータベース操作
+    - Java (jdk-17), JavaScript, MySQL(8.0.40), XML
  - **ツール：**
-    - TortoiseSVN(1.14.5)でのバージョン管理
-    - Redmine
- - **インフラ:**
-    - AWS EC2
+    - A5:SQL Mk-2(V2.17.2), TortoiseSVN(1.14.5), WinMerge(2.16.22), LibreOffice(7.3.7) Redmine, Everything(1.4.1), STS4.20.0
 - **課題：**
     - 設計書やソースコードの修正を担当していたが、規則をよく読まずにタスク進行してしまい納期1週間のものが6週間かかってしまった。次回からは、規則の熟読、Redmineに記載された指摘事項を逐一メモして再発防止に努めた。また、言語系統の資格を取得し業務理解度の向上に努めた。
 
@@ -150,26 +151,26 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-    - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17
+    - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17, 
 - **ツール：**
-    - VSCode
-    - Git デプロイ管理
-    - A5:SQL Mk-2(V2.19.0) + PostgreSQL データベース操作
-    - DockerDesktop
-    - Auth0
+    - VSCode, Git, A5:SQL Mk-2(V2.19.0), Docker, Auth0, Redmine, backlog, WinMerge(2.16.22), Everything(1.4.1)
 - **サーバー：**
-  - Ubuntu（CodeBuild Standard:5.0イメージベース）、Docker、apt、npm
+  - Ubuntu(CodeBuild Standard:5.0イメージベース), Docker, apt, npm
 - **AWS 環境での操作・運用経験：**
     - S3による静的コンテンツ管理、ログストレージ運用
     - ECS（Fargate）によるDockerコンテナの運用、タスク定義・スケジューリング
     - CodeDeploy / CodePipeline を活用したCI/CDパイプラインの操作・運用
     - Amazon Inspector によるセキュリティスキャン、レポート調査および修正対応
-    - Aurora（PostgreSQL）によるDB操作、スナップショット復元対応
+    - RDS + CloudFront + EventBridge によるDBリストア(障害時復旧)
 - **CI/CD改修・運用（AWS CodeBuild）:**
-    - フロントエンド／バックエンド向けに個別の buildspec.yaml（buildspec_frontend.yaml / buildspec_backend.yaml）を改修・運用
+    - フロントエンド／バックエンド向けに個別のbuildspec.yamlを改修・運用
     - npmスクリプトによる依存関係の解決、ビルド処理をDockerfileと連携させ、CodeBuild上でDockerイメージを自動生成
     - CodePipelineと連携し、環境ごとのビルド処理を自動化
     ※Docker環境でのCI/CDパイプライン改修にあたり、Node.js系プロジェクトにおける依存解決・ビルド最適化の対応を経験。
+- **その他業務内容:**
+    - 顧客のデータ復元・物理削除依頼対応 (S3, A5:SQL Mk-2)
+    - フロントエンド改修対応 (TypeScript, Vue.js, CSS)
+    - Auth0周りの動作速度改善対応
 - **課題：**
     - 7
  
@@ -180,9 +181,12 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-    - バッチファイル（Windows CMD）, PostgreSQL 14
+    - バッチファイル（Windows CMD）
 - **ツール：**
     - Teraterm、タスクスケジューラ、Windows Virtual Desktop（WVD）
+- **業務内容：**
+    - Windowsバッチサーバーエラー対応
+    - バッチ処理内容の改修
 - **課題：**
     - 7
  
@@ -197,6 +201,12 @@
 - **OS：**
     - Ubuntu 24.04.1(WSL2経由)  
 - **ツール：**
-    - WSL2, phpPgAdmin 7.13.0, Apache2.4.58, phpSpreadSheet, composer
+    - WSL2, VSCode, phpPgAdmin 7.13.0, Apache2.4.58, phpSpreadSheet, composer
+- **業務内容：**
+    - RPA改修
+      - メール内容文言修正(PHP)
+      - 新規管理ユーザ追加(psql)
+    - シェル検証環境の構築(WSL2, phpPgAdmin, Apache2, phpSpreadSheet, composer)
+    - フレームワーク"Smarty"の機能調査
 - **課題：**
     - 7
