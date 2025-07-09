@@ -65,6 +65,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 ![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=linux&logoColor=white&style=flat-square)
 ![apt](https://img.shields.io/badge/-apt-5E5E5E?logo=debian&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-%23F05033.svg?&logo=git&logoColor=white&style=flat-square)
 
 
 ---
@@ -104,7 +105,7 @@
 ### 受託開発SIer（2023/05〜現在）
 ※2023/05~2023/07まで新人研修
 
-#### 製造業企業の製版システムの開発・運用(2023/08\~2023/12, 2024/03\~2024/11)
+#### 製造業企業の製版システムの開発・運用(2023/08\~2024/11)
 
 - **チーム編成：**
     - ウォーターフォール開発
@@ -125,7 +126,7 @@
 - **課題：**
     - 設計書やソースコードの修正を担当していたが、規則をよく読まずにタスク進行してしまい納期1週間のものが6週間かかってしまった。次回からは、規則の熟読、Redmineに記載された指摘事項を逐一メモして再発防止に努めた。また、言語系統の資格を取得し業務理解度の向上に努めた。
 
-
+<!--
 #### (製造業)CentOSからLinuxへのポーティング作業を実施(2024/01~2024/02)
   - 総合テスト(長安, 激甚切替, 移行リハーサル)を手順書に基づき実施。
 
@@ -140,7 +141,7 @@
     - gdbを使用してデバッグ
 - **課題：**
   - テストの目的やその手順の意味を理解するのに時間がかかった。Linuxコマンドを少し理解できるようになった。
-
+-->
 
 ####  製造業向けSaasサービスの保守PJ(2024/09\~現在)
 
