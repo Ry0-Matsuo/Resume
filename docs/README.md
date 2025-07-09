@@ -149,7 +149,7 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-    - TypeScript, Vue.js, Node.js@18, Nest.js@10→11, PostgreSQL 17
+    - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17
 - **ツール：**
     - VSCode
     - Git デプロイ管理
