@@ -116,17 +116,17 @@
 
 #### 製造業企業の製版システムの開発・運用(2023/08\~2024/11)
 
-- **チーム編成：**
-  - ウォーターフォール開発
-    - PL 1人
-    - PM兼SE 2人
-    - SE 4人
+- **チーム構成：**
+  - ウォーターフォール型開発
+  - PL 1名、PM兼SE 2名、SE 4名
+
 - **役割：**
-    - 設計、コーディング、単体テスト、結合テスト
-- **言語・フレームワーク：**
-    - Java (jdk-17), JavaScript, MySQL(8.0.40), XML
- - **ツール：**
-    - A5:SQL Mk-2(V2.17.2), TortoiseSVN(1.14.5), WinMerge(2.16.22), LibreOffice(7.3.7) Redmine, Everything(1.4.1), STS4(v4.20.0)
+  - 詳細設計、画面開発（Java）、SQL開発、単体〜結合テスト
+
+- **使用技術：**
+  - **言語／DB／記述形式：** Java（JDK 17）、JavaScript、MySQL（8.0.40）、XML
+  - **使用ツール：** A5:SQL Mk-2（v2.17.2）、TortoiseSVN（v1.14.5）、WinMerge（v2.16.22）、LibreOffice（v7.3.7）、Redmine、Everything（v1.4.1）、STS4（v4.20.0）
+
  - **担当業務：**
     - Java（Service／Repository）を用いて、発注書出力画面（PDF帳票）の新規開発を担当
       - 既存ソースを参照しつつ、SQL・PDF生成処理・画面連携を実装
