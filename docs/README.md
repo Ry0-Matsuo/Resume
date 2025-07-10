@@ -124,7 +124,7 @@
   - 詳細設計、画面開発 (Java)、SQL開発、単体〜結合テスト
 
 - **言語／DB／記述形式：**
-    - Java（JDK 17）、JavaScript、MySQL（8.0.40）、XML
+    - Java (JDK 17), JavaScript, MySQL (8.0.40), XML
 
 - **ツール：**
     - A5:SQL Mk-2 (v2.17.2), TortoiseSVN (v1.14.5), WinMerge (v2.16.22), LibreOffice (v7.3.7), Redmine、Everything (v1.4.1), STS4 (v4.20.0)
@@ -210,7 +210,7 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-  - PHP 8.3.6、Smarty、PostgreSQL (psql)
+  - PHP 8.3.6, Smarty, PostgreSQL (psql)
 - **OS環境：**
   - Ubuntu 24.04（WSL2上）
 - **使用ツール／ミドルウェア：**
