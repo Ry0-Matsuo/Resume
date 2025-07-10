@@ -60,6 +60,7 @@
 ### OS
 
 <p>
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&style=flat-square&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white">
 </p>
 
