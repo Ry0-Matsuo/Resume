@@ -166,7 +166,7 @@
     - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17, 
 - **ツール：**
     - VSCode, Git, A5:SQL Mk-2 (V2.19.0), Docker, Redmine, backlog, WinMerge (2.16.22), Everything (1.4.1)
-- **Saas：**
+- **SaaS：**
     - Auth0
 - **サーバー：**
   - Ubuntu(CodeBuild Standard:5.0イメージベース), Docker, apt, npm
