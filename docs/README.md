@@ -63,7 +63,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white">
 </p>
 
-### Saas
+### SaaS
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424.svg?&logo=auth0&logoColor=white&style=flat-square)
 
 ### その他技術
@@ -156,7 +156,7 @@
   - テストの目的やその手順の意味を理解するのに時間がかかった。Linuxコマンドを少し理解できるようになった。
 -->
 
-####  製造業向けSaasサービスの保守PJ(2024/09\~現在)
+####  製造業向けSaaS保守PJ(2024/09\~現在)
 
 - **チーム編成：**
     - 2~4人
