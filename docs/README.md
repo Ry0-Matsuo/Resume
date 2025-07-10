@@ -121,13 +121,13 @@
   - PL 1名、PM兼SE 2名、SE 4名
 
 - **役割：**
-  - 詳細設計、画面開発（Java）、SQL開発、単体〜結合テスト
+  - 詳細設計、画面開発 (Java)、SQL開発、単体〜結合テスト
 
 - **言語／DB／記述形式：**
     - Java（JDK 17）、JavaScript、MySQL（8.0.40）、XML
 
 - **ツール：**
-    - A5:SQL Mk-2（v2.17.2）、TortoiseSVN（v1.14.5）、WinMerge（v2.16.22）、LibreOffice（v7.3.7）、Redmine、Everything（v1.4.1）、STS4（v4.20.0）
+    - A5:SQL Mk-2 (v2.17.2), TortoiseSVN (v1.14.5), WinMerge (v2.16.22), LibreOffice (v7.3.7), Redmine、Everything (v1.4.1), STS4 (v4.20.0)
 
  - **担当業務：**
     - Java（Service／Repository）を用いて、発注書出力画面（PDF帳票）の新規開発を担当
@@ -165,7 +165,7 @@
 - **言語・フレームワーク：**
     - TypeScript, Vue.js, Node.js@20, Nest.js@10→11, PostgreSQL 17, 
 - **ツール：**
-    - VSCode, Git, A5:SQL Mk-2(V2.19.0), Docker, Redmine, backlog, WinMerge(2.16.22), Everything(1.4.1)
+    - VSCode, Git, A5:SQL Mk-2 (V2.19.0), Docker, Redmine, backlog, WinMerge (2.16.22), Everything (1.4.1)
 - **Saas：**
     - Auth0
 - **サーバー：**
@@ -194,9 +194,9 @@
 - **役割：**
     - 対応者
 - **言語・スクリプト：**
-  - バッチファイル（Windows CMD）
+  - バッチファイル (Windows CMD)
 - **使用ツール：**
-  - Tera Term、タスクスケジューラ、Windows Virtual Desktop（WVD）
+  - タスクスケジューラ, Windows Virtual Desktop (WVD)
 - **担当業務：**
   - Windowsバッチサーバーで発生したエラーの調査・復旧対応
   - 処理フロー見直しによる既存バッチの改修
@@ -210,11 +210,11 @@
 - **役割：**
     - 対応者
 - **言語・フレームワーク：**
-  - PHP 8.3.6、Smarty、PostgreSQL（psql）
+  - PHP 8.3.6、Smarty、PostgreSQL (psql)
 - **OS環境：**
   - Ubuntu 24.04（WSL2上）
 - **使用ツール／ミドルウェア：**
-  - VSCode、phpPgAdmin、Apache2、phpSpreadsheet、composer、WinSCP
+  - VSCode, Tera Term, phpPgAdmin, Apache2, phpSpreadsheet, composer, WinSCP
 - **担当業務：**
   - RPA処理の改修・バグ対応（PHPコード修正中心）
   - メール送信ロジックの文言修正・出力内容の整備
