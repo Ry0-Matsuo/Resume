@@ -53,8 +53,8 @@
   <img alt="Amazon Inspector" src="https://img.shields.io/badge/Amazon%20Inspector-DB2A31.svg?logo=amazon-inspector&style=flat-square">
   <img alt="RDS" src="https://img.shields.io/badge/RDS-3538BD.svg?logo=rds&style=flat-square">
   <img alt="CloudFront" src="https://img.shields.io/badge/CloudFront-8F58EC.svg?logo=cloufront&style=flat-square">
-  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-F24381.svg?logo=cloufront&style=flat-square">
   <img alt="EventBridge" src="https://img.shields.io/badge/EventBridge-F24381.svg?logo=eventbridge&style=flat-square">
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-F24381.svg?logo=cloufront&style=flat-square">
 </p>
 
 ### OS
