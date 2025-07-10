@@ -46,7 +46,6 @@
 
 <p>
   <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569B31.svg?logo=amazon-s3&style=flat-square">
-  <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon%20ECS-F58C05.svg?logo=amazon-ecs&style=flat-square">
   <img alt="Amazon ECR" src="https://img.shields.io/badge/-Amazon%20ECR-F58C05.svg?logo=amazon-ecr&style=flat-square">
   <img alt="Code Build" src="https://img.shields.io/badge/Code%20Build-4A6DEE.svg?logo=codebuild&style=flat-square">
   <img alt="Code Deploy" src="https://img.shields.io/badge/Code%20Deploy-4A6DEE.svg?logo=acodedeploy&style=flat-square">
@@ -54,6 +53,7 @@
   <img alt="Amazon Inspector" src="https://img.shields.io/badge/Amazon%20Inspector-DB2A31.svg?logo=amazon-inspector&style=flat-square">
   <img alt="RDS" src="https://img.shields.io/badge/RDS-3538BD.svg?logo=rds&style=flat-square">
   <img alt="CloudFront" src="https://img.shields.io/badge/CloudFront-8F58EC.svg?logo=cloufront&style=flat-square">
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-8F58EC.svg?logo=cloufront&style=flat-square">
   <img alt="EventBridge" src="https://img.shields.io/badge/EventBridge-F24381.svg?logo=eventbridge&style=flat-square">
 </p>
 
@@ -172,7 +172,8 @@
   - AWS CodeBuild Standard:5.0（Debian GNU/Linux 11 "bullseye" ベース）, Docker, apt, npm
 - **AWS 環境での操作・運用経験：**
     - S3による静的コンテンツ管理、ログストレージ運用
-    - ECS（Fargate）によるDockerコンテナの運用、タスク定義・スケジューリング
+    - CloudWatch Logsを用いたDockerコンテナ（Fargate上）の実行ログ確認・監視を実施
+    - Amazon ECRによるイメージ管理を担当し、CI/CDパイプラインのビルド成果物を確認
     - CodeDeploy / CodePipeline を活用したCI/CDパイプラインの操作・運用
     - Amazon Inspector によるセキュリティスキャン、レポート調査および修正対応
     - RDS + CloudFront + EventBridge によるDBリストア(障害時復旧)
