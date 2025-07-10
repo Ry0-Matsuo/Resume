@@ -169,7 +169,7 @@
 - **SaaS：**
     - Auth0
 - **サーバー：**
-  - Ubuntu(CodeBuild Standard:5.0イメージベース), Docker, apt, npm
+  - AWS CodeBuild Standard:5.0（Debian GNU/Linux 11 "bullseye" ベース）, Docker, apt, npm
 - **AWS 環境での操作・運用経験：**
     - S3による静的コンテンツ管理、ログストレージ運用
     - ECS（Fargate）によるDockerコンテナの運用、タスク定義・スケジューリング
