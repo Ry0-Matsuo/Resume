@@ -69,9 +69,9 @@
 ### その他技術
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
-![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=linux&logoColor=white&style=flat-square)
 ![apt](https://img.shields.io/badge/-apt-5E5E5E?logo=debian&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?&logo=git&logoColor=white&style=flat-square)
+![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=linux&logoColor=white&style=flat-square)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?&logo=redmine&logoColor=white&style=flat-square)
 ![Apache2](https://img.shields.io/badge/-Apache2-D22128.svg?&logo=apache&logoColor=white&style=flat-square)
 
