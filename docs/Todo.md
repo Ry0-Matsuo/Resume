@@ -4,4 +4,5 @@
 - Code Build
 - buildspec.yaml
 - Windows バッチ
+- Auth0
 - 
