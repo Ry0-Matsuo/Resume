@@ -81,12 +81,6 @@
 
 ## スキル
 
-### 情報処理技術者試験
-
-|Date|Qualification|
-|---|---|
-|2023/12/24|基本情報処理技術者試験合格|
-
 ### クラウド
 
 #### AWS
@@ -105,6 +99,7 @@
 
 |Date|Qualification|
 |---|---|
+|2023/12/24|基本情報処理技術者試験合格|
 |2024/01/05|Oracle Certified Java Programmer, Gold SE11|
 |2024/01/20|Oracle Master Silver SQL|
 
