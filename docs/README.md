@@ -11,7 +11,7 @@
 
 <p>
 <a href="https://github.com/Nickelth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Nickelth-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/Nickelth" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Nickelth-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://zenn.dev/nickelth" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Nickelth-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
 ---
