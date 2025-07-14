@@ -165,6 +165,11 @@ PM/SE 3名、SE 4名（うち1名がPL）で構成された6〜7名の開発チ�
 - **CI/CD・インフラ**：AWS（S3, ECR, Fargate, RDS, Code系列, CloudFront, EventBridge, Inspector）
 - **その他**：Docker, Git, VSCode, Redmine, Backlog, A5:SQL Mk-2, WinMerge, Everything
 
+##### 補足
+- 本プロジェクトを通じて、クラウド環境（AWS）上でのアプリケーション運用と、CI/CDパイプラインの構築・改善について、実践的な知識と対応力を習得した。
+- CodeBuildやCodePipelineを用いたビルド自動化や、Docker環境での依存解決のプロセスに携わったことで、Node.js系プロジェクトにおけるCI/CD設計・運用の流れを体系的に理解できるようになった。
+
+
 
  
 #### 製造業企業のバッチサーバー保守・運用業務（2024年12月〜現在）
