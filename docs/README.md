@@ -2,18 +2,16 @@
 
 |key|value|
 |---|---|
-|氏名|松尾　遼（Matsuo Ryo）|
-|生年月日|1999/10/15|
-|居住地|京都府|
-|最終学歴|京都工芸繊維大学(中退)|
+|氏名|ニッケル|
+|居住地|関西圏|
 
 ---
 
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/Ry0-Matsuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Ry0--Matsuo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_mz" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo__mz-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://github.com/Nickelth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Nickelth-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://zenn.dev/Nickelth" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Nickelth-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
 ---
